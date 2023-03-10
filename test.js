@@ -1,4 +1,4 @@
-const name = 'ABC';
+const name = 'akdk';
 
 console.log(name);
 
